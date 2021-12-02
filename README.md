@@ -4,6 +4,7 @@
 
 - 🔭 我目前正在处理
   * 我们D.H团队的多个Discord bot 。负责开发和维护
+  * Music Premium的5.0版本开发
 
 - 🌱 我目前正在学习
   * TypeScript. 我有计划开发一个用TypeScript写的bot
