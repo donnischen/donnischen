@@ -2,12 +2,10 @@
 
 ### 关于我的一些信息
 - 🙋‍♂️ 我的名字是**DonnisChen** 
--  🎂 我 **18** 岁 
+-  🎂 我 **19** 岁 
    - 📆 我在**9月12日**庆祝我的生日
 - 🏠 我目前住在**柔佛的笨珍** *(我的家乡)*
-- 🏫 我目前在**Dato` Ali Hj Ahmad**学习
-- 🗣 我的主要语言是 **中文**, 但在大多数情况下，我会尝试说**马来文和英文** 
-- 💕 我非常热衷于**音乐**和**手机电脑**
+- 💕 我非常喜欢**音乐**和**电脑**
 
 ***
 
@@ -17,7 +15,8 @@
   * DonnisPlayMusic开发
 
 - 🌱 我目前正在学习
-  * C#和Vue.js
+  * TypeScript
+  * React (加深知识)
 
 <img src="https://cdn.discordapp.com/banners/192153481165930496/a_90290d7fc9c94e8f3d4b608ce0ad6749.gif?size=4096" align="right"/>  
   
@@ -25,6 +24,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=C%20Sharp&logoColor=823085)&nbsp;
@@ -35,6 +35,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=Electron)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
