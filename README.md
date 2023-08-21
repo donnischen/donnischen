@@ -2,21 +2,19 @@
 
 ### 关于我的一些信息
 - 🙋‍♂️ 我的名字是**DonnisChen** 
--  🎂 我 **19** 岁 
+-  🎂 我 **20** 岁 
    - 📆 我在**9月12日**庆祝我的生日
 - 🏠 我目前住在**柔佛的笨珍** *(我的家乡)*
-- 💕 我非常喜欢**音乐**和**电脑**
+- 💕 我非常喜欢**音乐**和**电脑硬件**
 
 ***
 
 - 🔭 我目前正在处理
-  * 我们D.H团队的多个Discord bot 。负责开发和维护
-  * Music Premium的5.0版本开发
+  * 我们D.H团队旗下Discord bot的维护
   * DonnisPlayMusic开发
 
 - 🌱 我目前正在学习
-  * TypeScript
-  * React (加深知识)
+  * TypeScript (加深知识)
 
 <img src="https://cdn.discordapp.com/banners/192153481165930496/a_90290d7fc9c94e8f3d4b608ce0ad6749.gif?size=4096" align="right"/>  
   
@@ -49,11 +47,11 @@
  WeChat: bpt912
 
 - [![discord](https://img.shields.io/badge/Discord-donnis%234186-7289DA?logo=discord&style=for-the-badgel)](https://discordapp.com/users/729403085281165370)
-[![My web](https://img.shields.io/badge/Website-Donnischen-yellow.svg)](https://donnis-chen.jimdosite.com/)
-[![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/donnischen/)
+[![My web](https://img.shields.io/badge/MyWebsite-Donnischen-yellow.svg)](https://donnischen.vercel.app/)
+[![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/bpeng0912/)
 
 - <a href="https://discordapp.com/users/729403085281165370"><img align="center" src="https://discord.c99.nl/widget/theme-2/729403085281165370.png" alt="thatonecalculator"/></a>
 
 - GitHub 统计
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=donnischen&theme=blueberry&count_private=true&hide_border=true&line_height=30)
+  ![Github stats](https://readmestats-dcgithub.vercel.app/api?username=donnischen&theme=blueberry&count_private=true&hide_border=true&line_height=30)
