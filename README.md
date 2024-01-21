@@ -2,7 +2,7 @@
 
 ### 关于我的一些信息
 - 🙋‍♂️ 我的名字是**DonnisChen** 
--  🎂 我 **20** 岁 
+-  🎂 我 **21** 岁 
    - 📆 我在**9月12日**庆祝我的生日
 - 🏠 我目前住在**柔佛的笨珍** *(我的家乡)*
 - 💕 我非常喜欢**音乐**和**电脑硬件**
@@ -11,10 +11,12 @@
 
 - 🔭 我目前正在处理
   * 我们D.H团队旗下Discord bot的维护
-  * DonnisPlayMusic开发
+  * DonnisPlayMusic维护
+  * XproMusic开发
 
 - 🌱 我目前正在学习
   * TypeScript (加深知识)
+  * Rust (加深知识)
 
 <img src="https://cdn.discordapp.com/banners/192153481165930496/a_90290d7fc9c94e8f3d4b608ce0ad6749.gif?size=4096" align="right"/>  
   
